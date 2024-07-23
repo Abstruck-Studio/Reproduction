@@ -1,0 +1,3 @@
+name: Reproduction
+version: '${project.version}'
+main: org.abstruck.reproduction.Reproduction
